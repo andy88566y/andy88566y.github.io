@@ -20,11 +20,9 @@ teaser                   : "/assets/images/roof.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "facebook"
-  facebook:
-    appid                :
-    num_posts            : 5 (default)
-    colorscheme          : "light"
+  provider               : "disqus"
+  disqus:
+    shortname            : "andy88566y"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
