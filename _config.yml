@@ -17,7 +17,7 @@ url                      : "https://andy88566y.github.io"
 baseurl                  :
 repository               : andy88566y/andy88566y.github.io
 teaser                   : "/assets/images/roof.jpg"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "facebook"

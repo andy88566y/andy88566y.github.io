@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://andy88566y.github.io/about/
+    url: /about
   - title: "Birthday"
     url: /happy_birthday
   # - title: "Sample Posts"
