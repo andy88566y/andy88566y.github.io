@@ -1,11 +1,14 @@
 ---
 title: Happy New Year
 subtitle: 2018 新年快樂
-image: /images/my_dog_and_alphadog.jpg
+categories: Happy
+image: /assets/images/my_dog_and_alphadog.jpg
+header:
+  teaser: /assets/images/my_dog_and_alphadog.jpg
 ---
 
 2018 新年快樂
-![my dog and alphadog](/images/my_dog_and_alphadog.jpg)
+![my dog and alphadog](/assets/images/my_dog_and_alphadog.jpg)
 
 AlphaGo
 阿法狗
