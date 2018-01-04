@@ -80,7 +80,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A Ruby on Rails Novice with the cutest dog in the world alongside.\nInsanity: doing the same thing over and over again and expecting different results. -Albert Einstein"
+  bio              : "A Ruby on Rails Novice with the cutest dog in the world alongside.\n\n\nInsanity: doing the same thing over and over again and expecting different results.\n -Albert Einstein"
   location         : "Taipei, TW"
   email            :
   uri              :
