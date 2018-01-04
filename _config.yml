@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "Stay Human, Andy"
+title                    : "Don't repeat yourseld. Stay Human. Yingrid"
 title_separator          : "|"
 name                     : &name "Andy Yang"
-description              : "Life's Notes from beloved Taipei"
+description              : "Insanity: doing the same thing over and over again and expecting different results."
 url                      : "https://andy88566y.github.io"
 baseurl                  :
 repository               : andy88566y/andy88566y.github.io
