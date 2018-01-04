@@ -88,3 +88,5 @@ end
 當我們在讀測試的時候，看到describe就知道以下所有context都在測試同一件事
 而context是在創造不同的環境，去測試結果是否符合預期。
 
+原文：[thanks to](http://lmws.net/describe-vs-context-in-rspec)
+
