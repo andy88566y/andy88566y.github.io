@@ -1,5 +1,5 @@
 ---
-title: Ruby: map with if next
+title: Ruby map with if next
 categories: Ruby map if next
 ---
 
