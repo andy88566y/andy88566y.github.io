@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "zh-TW"
-title                    : "Don't repeat yourseld. Stay Human. Yingrid"
+title                    : "Don't repeat yourself. Stay Human. Yingrid"
 title_separator          : "|"
 name                     : &name "Andy Yang"
 description              : "Insanity: doing the same thing over and over again and expecting different results."
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "A Ruby on Rails Novice with the cutest dog in the world alongside."
+  bio              : "A Ruby on Rails Novice with the cutest dog in the world alongside.\nInsanity: doing the same thing over and over again and expecting different results. -Albert Einstein"
   location         : "Taipei, TW"
   email            :
   uri              :
