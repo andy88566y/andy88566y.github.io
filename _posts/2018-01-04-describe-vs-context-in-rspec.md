@@ -1,8 +1,10 @@
 ---
 title: describe vs context in Rspec
 subtitle: 釐清Rspec中describe context的用法差異
-categories: Ruby, Rspec
+categories: Ruby Rspec
 ---
+
+釐清Rspec中describe context的用法差異
 
 In Rspec world, you often see people using both “describe” blocks and “context” blocks together, like this
 
